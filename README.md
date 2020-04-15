@@ -1,4 +1,4 @@
-# Splunk icons pack for draw.io
+# draw.io library with Splunk icons
 Library contains 185 icons from Splunk Wiki.
 
 Import Splunk-1.xml library into draw.io: "File" -> "Open Library From" -> "URL" ->  
